@@ -1,4 +1,3 @@
-#!/usr/bin/ruby
 #encoding: utf-8
 class Snake
   attr_accessor :num,     # => исходное число
